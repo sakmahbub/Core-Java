@@ -1,0 +1,3 @@
+1st= puiblic/ public, clazz/ class, Helloworld/HelloWorld
+2nd= publik/ public, (static), voed/ void, [[/[], 
+3rd= system/ System, printin/ println, "", ;
